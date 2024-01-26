@@ -44,7 +44,7 @@ Os projetos estão separados em 5 partes, todas organizadas no Google Colaborato
 * [Projeto da aula 02](https://colab.research.google.com/github/strawndri/imersao-dados-2021/blob/main/Aula_02.ipynb);
 * [Projeto da aula 03](https://github.com/strawndri/imersao-dados-2021/blob/main/Aula_03.ipynb);
 * [Projeto da aula 04](https://colab.research.google.com/github/strawndri/imersao-dados-2021/blob/main/Aula_04.ipynb);
-* [Projeto da aula 05](https://github.com/strawndri/imersao-dados-2021/blob/main/Aula_05.ipynb);
+* [Projeto da aula 05](https://github.com/strawndri/imersao-dados-2021/blob/main/Aula_05.ipynb).
 
 ## Tecnologias utilizadas
 - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem;
